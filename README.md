@@ -1,6 +1,6 @@
 # BUBBLE-SYSTEM-SCANNER
 
-# Bubble SUPER SYSTEM SCANNER v1.1 alpha
+# Bubble SUPER SYSTEM SCANNER v1.1 alpha (also known as syressundore)
 
 Made by kaneki | https://github.com/kanekiusesarch
 
