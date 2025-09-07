@@ -7,7 +7,7 @@ Made by kaneki | https://github.com/kanekiusesarch
 BubbleScanner is a fun system scanner that detects your OS, CPU, memory, disk, GPU, and prints a fancy ASCII report.
 
 ## Supported Platforms
-- Linux (tested on Arch/Bubble OS)
+- Linux (tested on Arch/Bubble OS run chmod +x bubblescanner to make it work)
 - Windows (64-bit, requires Mingw-w64)
 - macOS (requires macOS SDK compile it yourself)
 - BSD (FreeBSD, OpenBSD, NetBSD compile it yourself)
@@ -16,6 +16,7 @@ BubbleScanner is a fun system scanner that detects your OS, CPU, memory, disk, G
 ```bash
 g++ bubblescanner.cpp -o bubblescanner
 ./bubblescanner
+chmod +x bubblescanner
 ```
 ### MacOS compiling tut 
 ```bash
